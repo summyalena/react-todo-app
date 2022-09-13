@@ -1,0 +1,42 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+
+.item {
+  font-size: 1.2rem;
+  list-style-type: none;
+  padding: 17px 0;
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.checkbox {
+  margin-right: 15px;
+}
+
+.div {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+span {
+  display: flex;
+}
+
+.inputNew {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dfdfdf;
+}
+
+.delButton {
+  border: none;
+  cursor: alias;
+  background-color: transparent;
+  font-size: 0.9em;
+  color: red;
+}
